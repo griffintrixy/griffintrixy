@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=griffintrixy&fontSize=50&fontColor=ffffff" alt="banner" />
 </p>
 
-<h2 align="center">👋 Hello! I'm griffintrixy</h2>
+<h2 align="center">👋 Hello! I'm Griffin Trixy</h2>
 <p align="center">A passionate full-stack developer building tools, systems, and secure platforms across desktop and web.</p>
 
 ---
