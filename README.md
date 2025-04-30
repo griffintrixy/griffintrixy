@@ -49,38 +49,6 @@ I'm a **software developer** with a strong focus on building secure, scalable sy
 
 ---
 
-## 📌 Featured Projects
-
-### 🔧 Steam Tool System  
-A secure and modern platform using **Python GUI** + **PHP backend** with:
-- 🧠 HWID Security
-- 🧰 Admin Tools & Game Controls
-- 📦 Wallet System & Purchases
-- 🔄 Version Control & Auto Updates
-- 🌐 Multi-language UI
-
-### 💼 License Manager + Updater  
-A clean tool that includes:
-- ✅ Secure license key system (with line-based keys)
-- 🔄 Auto-updater for `.exe` with progress bar
-- ⚡ Notification handling without MsgBox
-
-### 🧩 PNG/TGA to SPR Converter  
-Powerful C# utility tool:
-- 🔄 Converts TGA/PNG into SPR format
-- 📊 Progress bar integration
-- 🧠 FreeImage Library support
-
-### 🌍 Web Platform  
-A modern Laravel + Vue.js platform with:
-- 🔐 Login & registration
-- 🧾 Admin & user dashboards
-- 💰 Wallet system + Binance Pay integration
-- 🌐 EN/KM language switcher
-- 📦 Product licensing management
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
