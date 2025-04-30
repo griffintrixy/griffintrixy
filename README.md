@@ -45,19 +45,6 @@ TGA/PNG to SPR converters with GUI and FreeImage integration, including progress
 <!-- - 🌐 Website: coming soon --> <!-- - ✉️ Email: yourname@example.com --> <!-- - 💬 Discord: yourDiscordName#0000 -->
 ⚡ Always learning. Always building. Focused on clean code, performance, and powerful tools.
 
-markdown
-Copy
-Edit
-
----
-
-✅ **How to Use This**:  
-1. Create a public repository named **`griffintrixy`** in your GitHub profile.  
-2. Add a `README.md` file.  
-3. Paste the code above inside `README.md`.  
-4. Commit and push — it will appear on your GitHub profile page!
-
-Would you like me to include your **profile photo**, links to social media, or a **custom banner image**?
 
 
 
