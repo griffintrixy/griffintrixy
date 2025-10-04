@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER (optional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=GriffinTrixy&fontSize=50&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=932F94&height=200&section=header&text=GriffinTrixy&fontSize=50&fontColor=ffffff" alt="banner" />
 </p>
 
 <h2 align="center">👋 Hello! I'm Griffin Trixy</h2>
